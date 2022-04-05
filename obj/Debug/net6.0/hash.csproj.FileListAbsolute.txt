@@ -1,0 +1,15 @@
+C:\c#\hash\bin\Debug\net6.0\hash.exe
+C:\c#\hash\bin\Debug\net6.0\hash.deps.json
+C:\c#\hash\bin\Debug\net6.0\hash.runtimeconfig.json
+C:\c#\hash\bin\Debug\net6.0\hash.dll
+C:\c#\hash\bin\Debug\net6.0\hash.pdb
+C:\c#\hash\obj\Debug\net6.0\hash.csproj.AssemblyReference.cache
+C:\c#\hash\obj\Debug\net6.0\hash.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\hash\obj\Debug\net6.0\hash.AssemblyInfoInputs.cache
+C:\c#\hash\obj\Debug\net6.0\hash.AssemblyInfo.cs
+C:\c#\hash\obj\Debug\net6.0\hash.csproj.CoreCompileInputs.cache
+C:\c#\hash\obj\Debug\net6.0\hash.dll
+C:\c#\hash\obj\Debug\net6.0\refint\hash.dll
+C:\c#\hash\obj\Debug\net6.0\hash.pdb
+C:\c#\hash\obj\Debug\net6.0\hash.genruntimeconfig.cache
+C:\c#\hash\obj\Debug\net6.0\ref\hash.dll
